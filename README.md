@@ -2,39 +2,57 @@
 
 # Hi, I'm Nikhil John 👋
 
-### Technical Senior Director · Builder at heart
+### Engineering leader. Curious builder. End-to-end systems thinker.
 
-I'm passionate about technology—and pet projects that turn curiosity into working software.
+I love growing teams and building systems—from the first customer problem to the architecture, product experience, and operations that make them work.
 
-[Let's connect](mailto:nikhiljohn4@gmail.com) · [Explore my GitHub](https://github.com/nikhiljohn4)
+[LinkedIn](https://www.linkedin.com/in/nikhil-john-93718420/) · [Email](mailto:nikhiljohn4@gmail.com)
 
 </div>
 
 ---
 
-## Leadership perspective. A builder's curiosity.
+## What I bring
 
-I'm a **Technical Senior Director** who loves staying close to technology. Alongside my leadership work, I enjoy exploring ideas through personal projects: trying unfamiliar approaches, connecting the pieces, and learning by building.
+My career has grown from software engineering into leading engineering organizations at **BILL and Intuit**. The thread through it all is building useful products, creating reusable platforms, and helping people grow into bigger challenges.
 
-Pet projects give me space to experiment, ask better questions, and keep my technical curiosity active.
+I enjoy working across the whole system: understanding the customer, shaping the technical direction, partnering with Product and Design, and helping teams deliver and operate what they build.
 
-## What draws me in
+## Systems I've helped teams build
 
-- **Building useful things** — taking an idea from “what if?” to something I can use and improve.
-- **Exploring technology** — understanding how tools and systems work, and where they fit.
-- **Connecting systems** — experimenting with APIs, application design, and event-driven messaging.
-- **Learning through practice** — using small projects to explore technical choices and their tradeoffs.
+| Area | Experience |
+| :--- | :--- |
+| **Product & developer platforms** | Shared design systems, micro-frontends, experimentation, developer APIs, and reusable widget platforms |
+| **Payments & monetization** | Enterprise supplier payments, payroll, billing, pricing, and partner integrations |
+| **Platform modernization** | Evolving monoliths and fragmented workflows into modular services and shared capabilities |
+| **AI applications** | Bringing agents into production with evaluations, grounding, and data-protection controls |
+| **Engineering organizations** | Building teams, developing managers and technical leaders, and strengthening ownership and delivery |
 
-## Technologies & interests
+At **BILL**, my work spans Product Growth, Vendor Network, and AI Monetization—from onboarding and experimentation to network APIs, supplier payments, and billing platforms.
 
-**React · Apollo · GraphQL · Event-driven systems**
+At **Intuit**, I led teams building QuickBooks Payroll and Workforce, developer integrations, and employee experiences across web and mobile. Earlier engineering work included payroll platforms, checkout services, and modernizing e-commerce applications.
 
-My interests span technology broadly. I enjoy projects that stretch my thinking and give me a reason to learn something new.
+## How I lead
 
-## Beyond the title
+- **Start with the customer.** Connect technical choices to the problem we're solving and the experience we want to create.
+- **Build foundations that multiply impact.** Give teams reusable capabilities and room to own meaningful problems.
+- **Grow people alongside systems.** Coach leaders, strengthen technical judgment, and create opportunities for others to step up.
+- **Own the full lifecycle.** Treat testing, migrations, observability, and production reliability as part of building the product.
 
-The title describes my role. Curiosity, building, and a passion for technology describe what keeps me engaged.
+## Why I keep building
 
-If you enjoy talking about technology, engineering leadership, or your latest pet project, I'd love to connect.
+Pet projects are where I follow my curiosity. I enjoy taking an idea through the entire journey: shaping the experience, designing APIs and data flows, connecting services, writing code, testing, deploying, and improving it.
 
-📫 **[nikhiljohn4@gmail.com](mailto:nikhiljohn4@gmail.com)**
+That hands-on exploration keeps me learning and gives me another way to examine the tradeoffs teams face. I'm especially interested in AI agents, developer tools, API integrations, and automation that makes everyday work easier.
+
+## My technical toolkit
+
+**Applications:** Java · Node.js · TypeScript · React · GraphQL · REST APIs  
+**Systems:** Distributed systems · Event-driven architecture · Kafka · AWS Lambda · Kubernetes  
+**Engineering:** Design systems · CI/CD · Automated testing · Observability · AI evaluations
+
+---
+
+I enjoy conversations about engineering leadership, platform architecture, and the pet project you can't stop thinking about.
+
+**[Let's connect →](https://www.linkedin.com/in/nikhil-john-93718420/)**
