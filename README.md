@@ -45,6 +45,17 @@ Pet projects are where I follow my curiosity. I enjoy taking an idea through the
 
 That hands-on exploration keeps me learning and gives me another way to examine the tradeoffs teams face. I'm especially interested in AI agents, developer tools, API integrations, and automation that makes everyday work easier.
 
+## What I build for fun
+
+My pet projects usually start with a personal itch: “Could I build something that makes this easier—or more interesting?”
+
+- **📊 Personal finance dashboards** — bringing portfolio information into one place and exploring how to make financial data easier to understand.
+- **🤖 Conversational AI assistants** — experimenting with agents that connect natural-language questions to useful tools and data.
+- **🛠️ Tools for building software** — exploring how AI agents can help move an idea through requirements, implementation, testing, and review.
+- **🔌 API experiments and everyday automation** — connecting services and turning repetitive steps into simpler workflows.
+
+The fun is in making the whole thing work: the interface, the backend, the integrations, the tests, and the deployment. I like having something I can use, break, learn from, and keep improving.
+
 ## My technical toolkit
 
 **Applications:** Java · Node.js · TypeScript · React · GraphQL · REST APIs  
